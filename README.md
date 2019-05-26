@@ -4,7 +4,7 @@ This golang demo illustrates using _goroutines_ with and without _channels.
 
 ##### Console Output
 
-``````
+```
 
 GOROOT=/usr/lib/go-1.10 #gosetup
 GOPATH=/home/parallels/go #gosetup
