@@ -14,7 +14,7 @@ seconds elapsed.
 
 ##### echo function
 The main passes a channel to the echo function. After one second, echo sends its string argument through the channel. 
-The main blocks on a receive from the channel, displaying the received value when the goroutine carriews out its
+The main blocks on a receive from the channel, displaying the received value when the goroutine carries out its
 send. 
 
 ```
